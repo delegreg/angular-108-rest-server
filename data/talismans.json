@@ -1,0 +1,1006 @@
+[
+  {
+    "class": "Warrior",
+    "name": "Strength",
+    "size": "2",
+    "origins": ["Wickerman Isles", "Satellite 15", "Garden of Fear"],
+    "effect": "increases ATK by 15%",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Steel",
+    "size": "3",
+    "origins": ["Trooper Store"],
+    "effect": "Gain invincibility for 2 turns at the start of battle. Invincibility prevents you  from taking damage.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/steel.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Echo",
+    "size": "4",
+    "origins": ["Garden of Fear"],
+    "effect": "35% chance for extra turns on each action",
+    "comment": "",
+    "pick": "../assets/eddies_picks/echo.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Valor",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Increases your max HP for the duration of battle. Each action removes a Golden Buff from each enemy.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/valor.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Burn",
+    "size": "2",
+    "origins": ["Battlefield"],
+    "effect": "35% chance to inflict Physical Burn to targets on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Strike",
+    "size": "3",
+    "origins": ["Garden of Fear"],
+    "effect": "Grants Counterstrike for 3 turns at the start of battle. Counterstrike gives a 35% chance to immediatley attack the enemy that just attacked you",
+    "comment": "",
+    "pick": "../assets/eddies_picks/strike.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Redemption",
+    "size": "3",
+    "origins": ["Satellite 15"],
+    "effect": "Remove 2 beneficial from all enemies at the start of battle. Grant Echo and Physical Reflict Shield to all allies upon death",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Necropolis",
+    "size": "3",
+    "origins": ["Arena Store"],
+    "effect": " Reduces the Max HP of the target once per hit (up to a maximum of 70%) and has a 35% chance to inflict Permadeath for 2 turns on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Piercing",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "35% chance to gain Armor Penetration on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Guardian",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "Increase ATK by 20% of DEF",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Iron",
+    "size": "2",
+    "origins": ["Kingdom of the Sands", "Garden of Fear"],
+    "effect": "Increases DEF 15%",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Hunter",
+    "size": "2",
+    "origins": ["Arena Store"],
+    "effect": "Peefect Basic Attacks have a 35% chance to Ignite targets for 2 turns. Deals additional damage to targets that are Ignited. Ignite doubles physical damage targets take",
+    "comment": "",
+    "pick": "../assets/eddies_picks/hunter.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Explosive",
+    "size": "3",
+    "origins": ["Garden of Fear"],
+    "effect": "35% chance to deal additional physical damage on all enemies. And then a 35% chance to inflict Grievous Burn and HP Drain on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Meteor",
+    "size": "4",
+    "origins": ["Garden of Fear"],
+    "effect": "Grants Meteor Skill to wearer",
+    "comment": "Deals physical damage to all enemies. 60% chance to inflict up to 6 Physical Burns for 3 turns. Grant an extra turn to self and a random ally",
+    "pick": "../assets/eddies_picks/meteor.png"
+  },
+  {
+    "class": "Warrior",
+    "name": "Prime",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "Perfect Basic Attacks have a 45% chance to grant Perfect Immunity to self and a random ally for 2 turns",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Rage",
+    "size": "4",
+    "origins": ["Garden of Fear"],
+    "effect": "Grants Rage Spear Skill to wearer",
+    "comment": "Deals 6 hits of physical damage to all enemies. Disable enemy passive for 2 turns. Heal all allies based on your max ATK stat. Instantly gain and extra turn",
+    "pick": "../assets/eddies_picks/rage.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Thorn",
+    "size": "3",
+    "origins": ["Garden of Fear"],
+    "effect": "35% chance to grant Thorn Shield to all allies on perfect basic attacks. Thorn Shield refects Physical and True Damage and inflicts Heal Block and Permadeath to enemies",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Dominance",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "35% Chance to gain random offensive buff when you take damage. 50% Chance to heal for 20% of Max HP when you take damage",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Saint",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Revive the first ally that dies in battle with Invincibility and HP Regen for 1 turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/saint.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Present",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "35% chance to remove Immunity and inflict Punishent on the enemy for 2 turns. Grant Lifesteal to allies for 1 turn on each basic attack. 20% chance to grant an extra turn to a random ally on each basic attack.",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Firestorm",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants Firestorm SKill which deals 5 hits of physical damage to random enemies with a 35% chance to inflict Flame and 15% chance to inflict Stun on each enemy each hit.",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Viper",
+    "size": "5",
+    "origins": ["Event Exclusive"],
+    "effect": "Reduce all damage taken by 60%, gain a 75% chance to counter when attacked. 85% chance to inflict Perfect Bleed & 35% chance to inflict Perfect Corruption and Perfect Disable!",
+    "comment": "",
+    "pick": "../assets/eddies_picks/viper.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Siege",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants Immunity to Physical Damage, Remove all Beneficial Effects including Golden Effects and inflict Perfect Accuracy Down on a random enemy for 2 turns every turn. Decrease the Max HP of all enemies by 2% whenever you take damage",
+    "comment": "",
+    "pick": "../assets/eddies_picks/siege.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Penance",
+    "size": "2",
+    "origins": ["Event Exclusive"],
+    "effect": "Inflict Passive Disable on up to 2 enemies for 1 turn every turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/penance.jpg"
+  },
+  {
+    "class": "Warrior",
+    "name": "Trooper",
+    "size": "5",
+    "origins": ["Event Exclusive"],
+    "effect": "Reduce Damage taken by 50%, and also reduce damage allies take by 35%. This set also grants Perfect Immunity and Echo to each ally when you take damage, and permanently increases 2 random stats on each ally by 5% every time you attack.",
+    "comment": ""
+  },
+  {
+    "class": "Warrior",
+    "name": "Orbit",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Grant immunity to true damage o all allies. Remove negative effects from all allies and Beneficial Effects on all enemies every action. Permanently increase MR and DEF by 5% every turn at the start of your turn.",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Cyclone",
+    "size": "3",
+    "origins": ["Garden of Dismay"],
+    "effect": "35% chance to grant a Cyclone Shield to all alllies on perfect basic attacks. Cyclone Shield reduces Magic and True Damage taken and reflicts True Damage to all enemies with a 45% chance to Silence for 1 turn",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Penetrating",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "45% chance to gain Magic Penetration on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Inspiration",
+    "size": "2",
+    "origins": ["Event Exclusive"],
+    "effect": "45% chance to extend the duration of Benefical Effects for 2 turns on peerfect basic attacks. Lower the duration of Benefical Effects on enemies by 1 turn with each atction",
+    "comment": "",
+    "pick": "../assets/eddies_picks/inspiration.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Life",
+    "size": "2",
+    "origins": ["Garden of Dismay"],
+    "effect": "Grants HP Regen for 2 turns at the start of battle",
+    "comment": "",
+    "pick": "../assets/eddies_picks/life.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Shock",
+    "size": "2",
+    "origins": ["Battlefield"],
+    "effect": "35% chance to apply Shock on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Oracle",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants increased Max HP for each ally for 3 turns at the start of battle, Transfer random negative effects inculding Silver Effects from self to random enemies and heal youself 35% of Max HP each turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/oracle.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Paladin",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "Increase Magic by 15% of MR",
+    "comment": "",
+    "pick": "../assets/eddies_picks/paladin.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Freezing",
+    "size": "3",
+    "origins": ["Skull Quests"],
+    "effect": "12% chacne to freeze targets on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Predator",
+    "size": "2",
+    "origins": ["Arena Store"],
+    "effect": "Perfect Basic Attacks of a 35% chance to Smite targets for 2 turns. Deals additional damage to Smited targets, Smite doubles Magic Damage targets take",
+    "comment": "",
+    "pick": "../assets/eddies_picks/predator.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Destiny",
+    "size": "4",
+    "origins": ["Trooper Store"],
+    "effect": "Reduces all damage delt to allies by 20% and genertates a random Defensive Effect on self when you take damage",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Holy",
+    "size": "2",
+    "origins": ["Wickerman Isles", "Satellite 15", "Garden of Dismay"],
+    "effect": "Increases Magic by 15%",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Enduring",
+    "size": "3",
+    "origins": ["Garden of Dismay"],
+    "effect": "Grants Endure for 3 turns at the start of battle",
+    "comment": "",
+    "pick": "../assets/eddies_picks/enduring.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Soul",
+    "size": "4",
+    "origins": ["Arena Store"],
+    "effect": "Gain immunity to Doom, Perfect Corruption and Block Beneficial Effect, Gain Soul Portect for the duration of battle, Soul Protect",
+    "comment": "",
+    "pick": "../assets/eddies_picks/soul.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Comet",
+    "size": "4",
+    "origins": ["Garden of Dismay"],
+    "effect": "Grants Comet Skill to wearer",
+    "comment": "Deals magic damage to all enemies. 50% chance to Freeze enemies for 2 turns. Grant an extra turn to self and a random ally"
+  },
+  {
+    "class": "Magus",
+    "name": "Avenger",
+    "size": "3",
+    "origins": ["Satellite 15"],
+    "effect": "Grants Revenge to self for 3 turns at the start of battle, Grants Revenge to all allies for 2 turns upon death",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Lightning",
+    "size": "4",
+    "origins": ["Garden of Dismay"],
+    "effect": "Grants Lightning Skill to wearer",
+    "comment": "3 hits of damnage to all enemies. 75% chance to Shock on each hit. 75% chance to Remove Beneficial Effects on each hit. Heal all allies based on your Magic stat. Instantly gain an extra turn",
+    "pick": "../assets/eddies_picks/lightning.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Ivory",
+    "size": "2",
+    "origins": ["Kingdom of the Sands"],
+    "effect": "Increase MR by 15%",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Future",
+    "size": "3",
+    "origins": ["Skull Quests"],
+    "effect": "Grants Increased Accuracy and Power Generation for 3 turns at the start of battle",
+    "comment": "",
+    "pick": "../assets/eddies_picks/future.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Snow",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants a Snow Shield for 2 turns at the start of battle. Grants immunity Stun Freeze and Taunt Effects",
+    "comment": "",
+    "pick": "../assets/eddies_picks/snow.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Fortune",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Reduce all damage taken by 40%. Heal all allies for 5% of your Max HP with a 35% chance to cleanse self when you take damage",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Alchemy",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Grant Invincibility to all Allies at the start of battle. Transform Negative Effects into Beneficial Effects every turn. Permanetly reduce a radom stat by 5% every time you attack",
+    "comment": "",
+    "pick": "../assets/eddies_picks/alchemy.jpg"
+  },
+  {
+    "class": "Magus",
+    "name": "Singularity",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Reduce damage dealt to all allies by 35%. Grant immunity to all allies for 1 turn at the start of battle. Grant immunity to passive disable and perfect disable to all allies after the first turn of the battle. Steal all beneficial effects, including golden effects, from a random enemy every turn.",
+    "comment": ""
+  },
+  {
+    "class": "Magus",
+    "name": "Gate",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Grant Immunity to Magic Damage.\nTransform Negative effects on self, including Silver effects, at the start of battle, into a Random Beneficial Effect, including Golden Effects with a 25% chance of triggering this same effect every turn.\nPermanently increase the max HP of all allies by 2% whenever you take damage.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/gate.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Guard",
+    "size": "3",
+    "origins": ["Garden of Life"],
+    "effect": "Gain Guard Shield at the start of battle for 2 turns",
+    "comment": "",
+    "pick": "../assets/eddies_picks/guard.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Advantage",
+    "size": "2",
+    "origins": ["Garden of Life"],
+    "effect": "50% chance to gain class advantage, and Perfect Hits status on perfect basic attacks",
+    "comment": "",
+    "pick": "../assets/eddies_picks/advantage.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Energy",
+    "size": "3",
+    "origins": ["Skull Quests"],
+    "effect": "35% chance to steal power on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Shell",
+    "size": "2",
+    "origins": ["Garden of Life"],
+    "effect": "Grants Damage Reduction Shield for 1 turn at the start of battle.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/shell.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Heal",
+    "size": "3",
+    "origins": ["Skull Quests"],
+    "effect": "Grants Healing Wind Skill to wearer. This skill will heal all allies based on their MAX HP and grant the caster an extra turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/heal.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Health",
+    "size": "2",
+    "origins": ["Wickerman Isles", "Satellite 15"],
+    "effect": "Increases Max HP 15%",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Power",
+    "size": "3",
+    "origins": ["Arena Store"],
+    "effect": "Gain a Power Shield for 2 turns at the start of battle. Power Shield reduces 25% of damage and genertates Power when hit",
+    "comment": "",
+    "pick": "../assets/eddies_picks/power.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Ruin",
+    "size": "2",
+    "origins": ["Night City"],
+    "effect": "Increase ATK by 1% of HP",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "True",
+    "size": "2",
+    "origins": ["Arena Store"],
+    "effect": "Grants True Damage Reduction Shield to wearer that reduces true damage by 75% for 2 turns at the start of battle",
+    "comment": "",
+    "pick": "../assets/eddies_picks/true.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Blind",
+    "size": "3",
+    "origins": ["Battlefield"],
+    "effect": "35% chance to Blind targets on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Quake",
+    "size": "4",
+    "origins": ["Garden of Life"],
+    "effect": "Grants Quake Skill to wearer",
+    "comment": "Deals True Damage to all enemies. 75% chance to stun for 2 turns. Damage increases based on your Max HP. Instantly gain an extra turn",
+    "pick": "../assets/eddies_picks/quake.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Eternal",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants each ally invulnerability against Physical, Magical and True Damage randomly at the start of your turn, Grant Immortality or Endure a random ally for one turn every turn",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Sacrificial",
+    "size": "3",
+    "origins": ["Frontier Store"],
+    "effect": "Gain Perfect Heal Shield for 1 turn and grants Sacrifice Status for the duration of battle. Sacrifice fully heals your team when you die.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/sacrificial.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Sustaining",
+    "size": "2",
+    "origins": ["Event Exclusive"],
+    "effect": "Heal all allies by 3% of Max HP every turn. Heal for an additional 3% for each Beneifical Effect on you",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Titan",
+    "size": "3",
+    "origins": ["Trooper Store"],
+    "effect": "Grain Titan Shield for 2 turns at the start of Battle, and grants immunity to Heal Block and Heal Reduction Effect for the duration of battle",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Crystal",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "Increase MR by 1% of HP",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Warp",
+    "size": "2",
+    "origins": ["Kingdom of the Sands"],
+    "effect": "Increase Magic by 1% of HP",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Stone",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "Increase DEF by 1% of HP",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Paralysis",
+    "size": "3",
+    "origins": ["Skull Quests"],
+    "effect": "12% chance to Stun targets on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Sentinel",
+    "name": "Tower",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Gain a random Golden Defensive Effect every turn for 1 turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/tower.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Greed",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Steal a random beneficial effect from the target on basic attacks, Heal all allies for 5% of your Max HP on Perfect Attacks",
+    "comment": "",
+    "pick": "../assets/eddies_picks/greed.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Frontier",
+    "size": "5",
+    "origins": ["Event Exclusive"],
+    "effect": "Passive Reduce all damage taken by 50%. Permanently increase a random stat by 50% every turn and by 2% when you take damage",
+    "comment": "",
+    "pick": "../assets/eddies_picks/frontier.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Brave",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "grant a random offensive or defensive buff for 2 turns whenever you take damage.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/brave.jpg"
+  },
+  {
+    "class": "Sentinel",
+    "name": "Grail",
+    "size": "2",
+    "origins": ["Event Exclusive"],
+    "effect": "50% chance to cleanse negative effects when you take damage",
+    "comment": "",
+    "pick": "../assets/eddies_picks/grail.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Angel",
+    "size": "3",
+    "origins": ["Arena Store"],
+    "effect": "Cleanse self and heal all allies for 5% of their Max HP every turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/angel.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Chance",
+    "size": "3",
+    "origins": ["Garden of Life"],
+    "effect": "Grants Critical Strike chance for 3 turns at the start of battle",
+    "comment": "",
+    "pick": "../assets/eddies_picks/chance.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Primordial",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants one random Golden Effect to each ally, and inflicts one random Silver Effect on each enemy every turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/primordial.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Purge",
+    "size": "3",
+    "origins": ["Arena Store"],
+    "effect": "Pefect Basic Attacks have a 45% chance to remove Benefical Effects on the target and heal yourself. 25% chance to Steal a Golden Effect each attack",
+    "comment": "",
+    "pick": "../assets/eddies_picks/purge.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Force",
+    "size": "3",
+    "origins": ["Trooper Store"],
+    "effect": "Gain a Force Shield that blocks 6 attacks for 2 turns at the start of battle and grants immunity to Time Bomb for the duration of battle",
+    "comment": "",
+    "pick": "../assets/eddies_picks/force.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Invisibility",
+    "size": "3",
+    "origins": ["Skull Quests"],
+    "effect": "35% chance to Vanish on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Tranquility",
+    "size": "2",
+    "origins": ["Skull Quests"],
+    "effect": "50% chance to remove Perfect Immunity and grant Perfect Health Buff to self for 2 turns on perfect basic attacks",
+    "comment": "",
+    "pick": "../assets/eddies_picks/tranquility.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Zone",
+    "size": "4",
+    "origins": ["Garden of Life"],
+    "effect": "Grants Zone Eating Skill to wearer",
+    "comment": "Deals random damage to all enemies. Inflicts Exhaust, Curse,  or Silence on enemies for 5 turns or Doom for 2 turns, Grants an extra turn to self and a random ally"
+  },
+  {
+    "class": "Gunner",
+    "name": "Immunity",
+    "size": "2",
+    "origins": ["Garden of Life"],
+    "effect": "Grants Immunity for 3 turns at the start of battle",
+    "comment": "",
+    "pick": "../assets/eddies_picks/immunity.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Flash",
+    "size": "3",
+    "origins": ["Night City"],
+    "effect": "35% to inflict 3 Blinding Burns on targets for 2 turns on perfect basic attacks, Any attacks against that are Blinded have  a 50% chance to remove Beneficial Effects and inflict Stun for 1 turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/flash.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Serenity",
+    "size": "3",
+    "origins": ["Frontier Store"],
+    "effect": "Grants Immunity to all Silver Effects. Gain Cleanse Status for 2 turns at the start of battle. Cleanse all Negative Effects inculding Silver Effects from all allies and grants Cleanse and Regen to all allies for 2 turns upon death",
+    "comment": "",
+    "pick": "../assets/eddies_picks/serenity.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Boost",
+    "size": "2",
+    "origins": ["Underworld", "Satellite 15", "Garden of Life"],
+    "effect": "Increase Special by 25%",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Thief",
+    "size": "3",
+    "origins": ["Underworld"],
+    "effect": "45% chance to Steal Fury on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Mimic",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Copies all Benefical Effects, including Golden Effect at the start of battle. Copy 1 Benefical Effect from a random enemy for each action",
+    "comment": "",
+    "pick": "../assets/eddies_picks/mimic.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Rush",
+    "size": "2",
+    "origins": ["Event Exclusive"],
+    "effect": "increase Special by 25% of DEF.",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Radiant",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Prevents the enemy from gaining offensive Golden Effects Grants you a random Defensive Effect every turn",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Tomb",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Passive, Gain Perfect Health and Heal Shield for the duration of battle. 50% chance to Stune enemies inflicted with Stop or Seal for 2 turns at the start of every turn",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Fools",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Beware! Your curiosity could kill you.",
+    "comment": "They either freeze your team and the enemies, sleep your team and the enemies, or stack up HP Regen and crave on you and the enemies.",
+    "pick": "../assets/eddies_picks/fools.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Banner",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants a random Shield to all allies at the start of battle",
+    "comment": "Remove a beneficial effect from the enemy and heal self for 5% of Max HP every time an ally takes damage",
+    "pick": "../assets/eddies_picks/banner.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Light",
+    "size": "5",
+    "origins": ["Event Exclusive"],
+    "effect": "Grant Perfect Immortality every turn for 1 turn. permanentaly increase one DEF stat by 1% whenever you take damage. Heal for 50% of Missing HP whenever you take damage below 50% Max HP",
+    "comment": "",
+    "pick": "../assets/eddies_picks/light.jpg"
+  },
+  {
+    "class": "Gunner",
+    "name": "Sun",
+    "size": "2",
+    "origins": ["Event Exclusive"],
+    "effect": "Grant Immunity and a random beneficial effect if Invincibility is present at the start of your turn",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Persecution",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Reduce damage taken by 35%. Reflect 30% of the damage received back to all enemies. 35% chance to inflict perfect heal block on each enemy for 2 turns when hit.",
+    "comment": ""
+  },
+  {
+    "class": "Gunner",
+    "name": "Space",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Grant Vanish to self every turn at the start of your turn. 35% chance to heal and remove negative effects from each ally every turn. Grant Physical, Magic and True Damage invulnerability for two turns to any ally that falls below 30% HP.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/space.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Nightmare",
+    "size": "3",
+    "origins": ["Night City"],
+    "effect": "35% chance for perfect basic attacks to inflict Perfect Sleep on targets for one Turn. Pefect Sleep is a silver effect that can not be cleansed by most skills",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Fate",
+    "size": "3",
+    "origins": ["Arena Store"],
+    "effect": "Grants Ascension, Immortality and Perfect Immunity for 1 turn every turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/fate.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Eclipse",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants Shroud for the duration of the battle. Shroud converts all damage to True Damage equal to 5% of your Max HP, and Immunity to Reduce Max HP Effects",
+    "comment": "",
+    "pick": "../assets/eddies_picks/eclipse.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Void",
+    "size": "3",
+    "origins": ["Underworld"],
+    "effect": "35% chance to trigger Void Shield on all allies on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Vampiric",
+    "size": "3",
+    "origins": ["Garden of Dismay"],
+    "effect": "Heal for 20% of your Max HP on perfect basic attacks",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Death",
+    "size": "3",
+    "origins": ["Skull Quests", "Satellite 15"],
+    "effect": "Grant Death Mark Skill to wearer",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Warlord",
+    "size": "2",
+    "origins": ["Event Exclusive"],
+    "effect": "Gain a random Offensive Effect when healed with a 15% chance to gain an extra turn if healed on your turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/warlord.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Shadow",
+    "size": "4",
+    "origins": ["Arena Store"],
+    "effect": "Grants Vanish at the start of battle for 1 turn. Gain Vanish, Crit Chance and All Damage Charge for 1 turn if Perfect Hit is active on your turn",
+    "comment": "",
+    "pick": "../assets/eddies_picks/shadow.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Assassin",
+    "size": "3",
+    "origins": ["Underworld"],
+    "effect": "Increases ATK by 15% of Magic, and Magic by 15% of ATK",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Resilience",
+    "size": "3",
+    "origins": ["Garden of Dismay"],
+    "effect": "Increase HP by 50% of ATK and Magic",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Resistance",
+    "size": "3",
+    "origins": ["Garden of Dismay"],
+    "effect": "Increase DEF & MR by 25% of of ATK and Magic",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Immortal",
+    "size": "3",
+    "origins": ["Garden of Dismay"],
+    "effect": "Grants Perfect Immortality for 3 turns at the start of battle. Perfect Immortality will auto-revive you with 60% of HP if you die with this buff active",
+    "comment": "",
+    "pick": "../assets/eddies_picks/immortal.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Mark",
+    "size": "3",
+    "origins": ["Frontier Store"],
+    "effect": "Mark a target with up to 3 marks at the start of battle, Inflict up to 3 marks on a target after each action, Remove all Beneficial Effects and inflict up to 4 marks on all enemies upon death",
+    "comment": "",
+    "pick": "../assets/eddies_picks/mark.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Venom",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Perfect Basic Attacks have a 35% chacne to deal additional True Damage to all enemies with a 35% chance to inflict Crave, Exhaust and Bloodlust for 2 turns",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Hex",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Immune to Max HP reduction effects, Heal for 5% of your Max HP every turn, 50% chance to increase duration of negative effects on target for 1 turn",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Trap",
+    "size": "2",
+    "origins": ["Trooper Store"],
+    "effect": "Grants Trap Status for 2 turns at the start of battle. Trap Status removes Beneficial Effects, Stuns and inflicts Perfect Corruption on opponent if effect is stolen or forcefully removed",
+    "comment": "",
+    "pick": "../assets/eddies_picks/trap.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Labyrinth",
+    "size": "5",
+    "origins": ["Event Exclusive"],
+    "effect": "60% Chance to take no damage when attacked. Take random damage based on 10% of your MAX HP and inflict Attack Down, Magic Down and Stop on each enemy for 1 turn when succesfully hit.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/labyrinth.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Reaper",
+    "size": "4",
+    "origins": ["Event Exclusive"],
+    "effect": "Reduce damage taken by 50%. 50% chance to remove Perfect Immunity from each enemy every turn. Remove all beneficial effects and inflict Perfect Bleed on a random enemy every turn.",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Eternity",
+    "size": "5",
+    "origins": ["Event Exclusive"],
+    "effect": "Grants Perfect Hit to all allies at the start of battle for 2 turns. Grants Physical, Magic and True Block to self for 1 turn if Perfevt Hit, Regen or Charage is present at the start pf your turn.Remove All Beneficial Effects including Golden Effects, Stun and inflict Perfect Disable for 1 turn on a random enemy if Passive Disable is active on any enemy at the start of your turn. Fully heal and remove Doom effects from all enemies if the wearer of this talisman has Shawl or Styx passive",
+    "comment": "",
+    "pick": "../assets/eddies_picks/eternity.jpg"
+  },
+  {
+    "class": "Assassin",
+    "name": "Rebellion",
+    "size": "3",
+    "origins": ["Event Exclusive"],
+    "effect": "Grant Immunity to Silence and Perfect Silence. 20% chance to remove all Silver effects from self and a random ally when you take damage",
+    "comment": ""
+  },
+  {
+    "class": "Assassin",
+    "name": "Quantum",
+    "size": "6",
+    "origins": ["Event Exclusive"],
+    "effect": "Take 40% reduced damage. Transform Beneficial effects into their golden versions for two turns at the start of your turn. Deal 6 additional hits of damage to targets that have Labyrinth talismans equipped after each action.",
+    "comment": "",
+    "pick": "../assets/eddies_picks/quantum.jpg"
+  },
+  {
+    "class": "",
+    "name": "Cosmic",
+    "size": "1",
+    "origins": [],
+    "effect": "Cosmic talisman effect varies depending on talisman kind",
+    "comment": ""
+  }
+]

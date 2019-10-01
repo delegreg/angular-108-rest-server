@@ -53,6 +53,92 @@ paths:
         404:
           description: Example not found
           content: {}
+  /lotb:
+    get:
+      tags:
+      - Lotb
+      description: Fetch all toons
+      responses:
+        200:
+          description: Returns all toons
+          content: {}
+    post:
+      tags:
+      - Lotb
+      description: Create a new toon
+      requestBody:
+        description: a toon
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ToonBody'
+        required: true
+      responses:
+        200:
+          description: Returns all toons
+          content: {}
+  /lotb/{id}:
+    get:
+      tags:
+      - Lotb
+      description: Get a specific toon
+      parameters:
+      - name: id
+        in: path
+        description: The id of the toon to retrieve
+        required: true
+        schema:
+          type: string
+      responses:
+        200:
+          description: Return the toon with the specified id
+          content: {}
+        404:
+          description: Toon not found
+          content: {}
+    put:
+      tags:
+      - Lotb
+      description: Update an existing toon
+      parameters:
+      - name: id
+        in: path
+        description: The id of the toon to retrieve
+        required: true
+        schema:
+          type: string
+      requestBody:
+        description: a toon
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ToonBody'
+        required: true          
+      responses:
+        200:
+          description: Return the toon with the specified id
+          content: {}
+        404:
+          description: Toon not found
+          content: {}
+    delete:
+      tags:
+      - Lotb
+      description: Delete an existing toon
+      parameters:
+      - name: id
+        in: path
+        description: The id of the toon to delete
+        required: true
+        schema:
+          type: string
+      responses:
+        200:
+          description: Deleted the toon with the specified id
+          content: {}
+        404:
+          description: Toon not found
+          content: {}                              
   /spec:
     get:
       tags:
@@ -72,3 +158,13 @@ components:
         name:
           type: string
           example: no_stress
+    ToonBody:
+      title: toon
+      required:
+      - name
+      type: object
+      properties:
+        name:
+          type: string
+          example: eddie
+

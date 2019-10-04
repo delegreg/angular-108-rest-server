@@ -4,6 +4,7 @@ import path from 'path';
 import bodyParser from 'body-parser';
 import http from 'http';
 import os from 'os';
+import cors from 'cors';
 import cookieParser from 'cookie-parser';
 
   import installValidator from './openapi';
@@ -11,6 +12,7 @@ import cookieParser from 'cookie-parser';
 import l from './logger';
 
 const app = express();
+app.use(cors());
 
 export default class ExpressServer {
   constructor() {
